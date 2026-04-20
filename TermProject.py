@@ -30,10 +30,10 @@ def movefile(srcPath, dest_folder):
         print("Error moving file: {e}")
 
 
-def logging(logger):
+def logging(logged):
     try:
         with open("log.txt", "a") as log:
-            log.write(logger + "\n")
+            log.write(logged + "\n")
     except Exception as e:
         print(f"Failed logging: {e}")
 
@@ -71,7 +71,7 @@ def main():
             print(f"Unexpected error with {file}: {e}")
             logging(f"failed to move: {file} because {e}")
 
-    print("Organizing complete")
+    print("Organizing completed")
 
 if __name__ == "__main__":
     main()
