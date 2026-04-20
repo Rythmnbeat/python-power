@@ -1,0 +1,5 @@
+picture1.png moved to images
+picture2.png moved to images
+notes.txt moved to documents
+excelfile1.xlsx moved to other
+sound1.wav moved to audio

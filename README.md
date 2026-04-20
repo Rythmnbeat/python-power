@@ -1,10 +1,9 @@
 # python-power
-# File Organizer Utility 
-### Video Demo: 
+# File Organizer Utility  
 ---
 # File Organizer Utility
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <[text](https://www.youtube.com/watch?v=Hh1YXYzI8q8)>
 
 ---
 
